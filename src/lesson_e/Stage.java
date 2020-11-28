@@ -1,5 +1,5 @@
 package lesson_e;
-
+//add hw
 abstract class Stage {
 
     protected int length;
