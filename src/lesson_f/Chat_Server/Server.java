@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Vector;
 import java.util.logging.*;
-//add hw
+//add hw1
 public class Server {
     private Vector<ClientHandler> clients;
 

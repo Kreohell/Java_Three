@@ -7,7 +7,7 @@ public class AuthService {
     private static Connection connection;
     private static Statement stmt;
     static Logger logger = Logger.getLogger(lesson_f.Chat_Server.Server.class.getName());
-//add hw
+//add hw1
 
     public static void connect() {
         try {

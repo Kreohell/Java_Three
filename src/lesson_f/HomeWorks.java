@@ -1,5 +1,5 @@
 package lesson_f;
-//add hw
+//add hw2
 
 import java.util.Arrays;
 
