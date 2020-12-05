@@ -1,0 +1,6 @@
+дек 01, 2020 10:01:32 PM lesson_f.Chat_Server.Server <init>
+SEVERE: Сервер запущен.
+дек 01, 2020 10:02:48 PM lesson_f.Chat_Server.Server <init>
+SEVERE: Сервер запущен.
+дек 01, 2020 10:02:52 PM lesson_f.Chat_Server.Server <init>
+SEVERE: Сервер запущен.
