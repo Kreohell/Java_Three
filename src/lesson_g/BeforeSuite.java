@@ -1,5 +1,5 @@
 package lesson_g;
-
+//ad hw
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
